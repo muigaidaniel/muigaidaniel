@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Wanyoro Muigai.
-- 👀 I’m interested in cross-platform app development using flutter.
+- 👀 I’m interested in cross-platform app development using flutter and Data Science.
 - 🌱 I’m currently doing Bsc. Computer Science in the University Of Nairobi.
 - 💞️ I’m looking to collaborate on flutter projects of any kind.
 - 📫 How to reach me : 
