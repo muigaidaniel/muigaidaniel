@@ -22,7 +22,7 @@
 ### :octocat: My stats
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=muigaidaniel&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muigaidaniel&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
      <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muigaidaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
     
     
