@@ -1,15 +1,14 @@
 
-<h1 align="center">  Hi there ,</h1>
+<h1 align="center">  Hi there </h1>
+<h2 align="center"> I’m Daniel Wanyoro Muigai </h2>
 
-
-<p align="center">
+<h2 align="center">
    
   <a href="https://www.linkedin.com/in/daniel-muigai-8b6a10192/">Linkedin</a> 
   
-</p>
+</h2>
 
 -----------------------------------------------------------
-- 👋 Hi, I’m Daniel Wanyoro Muigai.
 - 👀 I’m interested in cross-platform app development using flutter and Data Science.
 - 🌱 I’m currently doing Bsc. Computer Science in the University Of Nairobi.
 - 💞️ I’m looking to collaborate on flutter projects of any kind.
