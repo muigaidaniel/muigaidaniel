@@ -9,8 +9,8 @@
 </h2>
 
 -----------------------------------------------------------
-- 👀 I’m interested in cross-platform app development using flutter and Data Science.
-- 🌱 I’m currently doing Bsc. Computer Science in the University Of Nairobi.
+- 👀 I’m interested in cross-platform app development using Flutter and Data Science.
+- 🌱 Bsc. Computer Science, University Of Nairobi.
 - 💞️ I’m looking to collaborate on flutter projects of any kind.
 - 📫 How to reach me : 
                 E-mail- muigaidaniel81@gmail.com
