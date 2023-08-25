@@ -1,12 +1,8 @@
 
-<h1 align="center">  Hi there </h1>
-<h2 align="center"> I’m Daniel Wanyoro Muigai </h2>
 
-<h2 align="center">
-   
-  <a href="https://www.linkedin.com/in/daniel-muigai-8b6a10192/">Linkedin</a> 
-  
-</h2>
+
+
+<h2 align="left">Hi 👋! My name is I’m Daniel Wanyoro Muigai</h2>
 
 -----------------------------------------------------------
 - 👀 I’m interested in cross-platform app development using Flutter and Data Science.
@@ -17,64 +13,53 @@
 
 -------------------------------------------------------------
 
+###
 
-### :octocat: My stats
-  <table>
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muigaidaniel&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muigaidaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
-    
-    
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muigaidaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muigaidaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-    
+###
 
-    
-  </tr>   
-  
-   
-   
-  
-  
-  </tr>
-  
-       
-  
-</table>
+<img align="right" height="150" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+</div>
 
-## Languages
+###
 
-<a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
-<a><img align="left" alt="Dart" width="35px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
-<a><img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /><a/>
-<a><img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><a/>
-<a><img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><a/>
-<a><img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><a/>
-<a><img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><a/>
+<div align="left">
+  <a href="https://www.instagram.com/muigai.dw/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="muigaidaniel81@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-muigai-8b6a10192/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<br />
-<br />
-<br/>
+###
 
-## Package Manager
+<br clear="both">
 
-<a><img align="left" alt="Npm" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
+<img src="https://raw.githubusercontent.com/muigaidaniel/muigaidaniel/output/snake.svg" alt="Snake animation" />
 
-<br />
-<br />
-
-## Tools
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-
-<br />
-<br />
-
-
-
-
-## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><a/>
-
- <br />
-
+###
